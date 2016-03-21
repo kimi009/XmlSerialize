@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>kimi</Name>
+  <Courses>
+    <Course>
+      <Name>英语</Name>
+      <Description>交流工具</Description>
+    </Course>
+    <Course>
+      <Name>数学</Name>
+      <Description>自然科学</Description>
+    </Course>
+  </Courses>
+</Person>

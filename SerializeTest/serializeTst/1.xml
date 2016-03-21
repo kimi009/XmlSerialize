@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Human>
+	<Name>kimi</Name>
+	<Age>25</Age>
+	<Sex>male</Sex>
+	<Birthday></Birthday>
+	<Chinese>
+		<Food>
+			<Apple>Apple</Apple>
+			<Price>4</Price>
+			<Quilty></Quilty>
+		</Food>
+	</Chinese>
+	<American>
+		<AiHao>
+			<HuNei>Ymq</HuNei>
+			<HuWai>Ppq</HuWai>
+		</AiHao>
+		<AiHao>
+      <HuNei>tgq</HuNei>
+      <HuWai>xq</HuWai>
+		</AiHao>
+	</American>
+</Human>
