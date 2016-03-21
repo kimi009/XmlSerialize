@@ -1,4 +1,4 @@
-序列化文章链接：http://www.cnblogs.com/qqflying/archive/2008/01/13/1037262.html
+xmlSerialize article	http://www.cnblogs.com/qqflying/archive/2008/01/13/1037262.html
 
                 http://www.cnblogs.com/yzenet/p/3622833.html
                 
